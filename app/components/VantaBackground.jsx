@@ -65,7 +65,7 @@ export default function VantaBackground({ children, className = "" }) {
   return (
     <div
       ref={vantaRef}
-      className={`relative w-full h-screen overflow-visible  ${className}`}
+      className={`relative w-full  ${className}`}
     >
       <div className="relative z-10">{children}</div>
     </div>

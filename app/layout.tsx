@@ -8,9 +8,9 @@ export const metadata: Metadata = {
     "Diego Carmona's portfolio website. Explore projects, skills, and experience in web development.",
   metadataBase: new URL("https://carmona.vercel.app"),
   icons: {
-    icon: "/website-logo.png", // Ícone principal (favicon)
-    shortcut: "/website-logo.png", // Ícone de atalho
-    apple: "/website-logo.png", // iOS homescreen icon
+    icon: "/website-logo.png",
+    shortcut: "/website-logo.png",
+    apple: "/website-logo.png",
   },
   openGraph: {
     title: "Diego Carmona",
